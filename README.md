@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SalvoDiCaro
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on Avvera SPA
+- 📫 salvatoredicaro93@gmail.com
