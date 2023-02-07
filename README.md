@@ -8,7 +8,7 @@ I've been learning to code for 5 years at university and ITS Steve Jobs Academy.
 
 * 🌍  I'm based in Syracuse
 * ✉️  You can contact me at [salvatoredicaro93@gmail.com](mailto:salvatoredicaro93@gmail.com)
-* 🚀  I'm currently working on [Paradigma](http://paradigma.me/)
+* 🚀  I'm currently working on [Fincons](https://www.finconsgroup.com/)
 * 🧠  I'm learning Project Management
 * ⚡  I'm on a seafood diet. I see food, I eat it.
 
